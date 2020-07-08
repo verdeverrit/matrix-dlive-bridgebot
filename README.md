@@ -11,4 +11,5 @@ Usage:
 the bot is nowhere near to completion, instructions to come
 
 If you feel like donating, though I don't know why you would, my bitcoin address is below.
+
 BTC: 1JUqpvNvybHSaSsQEmK6hoH17jFv3VnFMa

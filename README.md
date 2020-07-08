@@ -4,7 +4,7 @@ The code is [free to use](LICENSE.md), but the authentication server is not open
 Authentication information will NOT be provided unless you organise it.
 
 Usage:
-instructions to come
+the bot is nowhere near to completion, instructions to come
 
 If you feel like donating, though I don't know why you would, my bitcoin address is below.
 

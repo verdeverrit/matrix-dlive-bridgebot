@@ -1,6 +1,5 @@
-This is a bridgebot based bridge for matrix-dlive written in python.
-
-Requires a matrix account and a dlive account.
+This app is a simple python bridgebot based chat bridge to allow for interaction between a matrix server room and a dlive channel. 
+It requires a dedicated bot account on each end with access to the respective APIs.
 
 Usage:
 instructions to come

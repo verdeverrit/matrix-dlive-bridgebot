@@ -1,4 +1,5 @@
-[![badge](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-2.png)](LICENSE.md)
+[![badge](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-2.png)](http://www.wtfpl.net/)
+
 This app is a simple python bridgebot based chat bridge to allow for interaction between a matrix server room and a dlive channel. 
 It requires a dedicated bot account on each end with access to the respective APIs.
 The code is free to use, but the authentication server is not open.
